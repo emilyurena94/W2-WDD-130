@@ -1,0 +1,47 @@
+nav {
+    background-color: rgb(160, 160, 45);
+    padding: 10px; ;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    font-weight: black;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+    border: 1px, solid rgb(163, 112, 230);
+    padding: 2px;
+    box-shadow: 0 0 30px rgba(95, 245, 25, 0.699);
+}
+
+p {
+    padding:0;
+}
+
+aside {
+    width: 20em;
+    margin:1em;
+    border: 1px solid rgb(226, 112, 230);
+    padding: 1em;
+    background-color: pink;
+    color: rgb(184, 91, 25);
+    text-align: center;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+footer {
+    margin: 1em;
+    border-top: 1px solid rgb(0, 0, 0);
+    text-align: center;
+}
